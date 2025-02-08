@@ -1,6 +1,6 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
-CONPANY: CODTECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 NAME: P SOORYA SHENOY
 INTERN ID: CT12ONS
 DOMAIN: PYTHON PROGRAMMING
@@ -42,5 +42,8 @@ Educational Demonstrations: Suitable for teaching Python programming concepts, d
 3. Run the script in any Python environment (e.g., VSCode, Jupyter Notebook, or terminal).
 
 This script provides a practical example of API integration and data visualization. By using powerful libraries such as Matplotlib and Seaborn, users can easily gain insights from weather data and create visually appealing plots.
+
+![Image](https://github.com/user-attachments/assets/b63221c7-c2b4-4110-a64c-0b5b97ad8e29)
+![Image](https://github.com/user-attachments/assets/c9cde413-83cc-4eef-8703-37b9ec0f7ed4)
 
 
