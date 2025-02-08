@@ -4,7 +4,7 @@ import seaborn as sns
 import pandas as pd
 
 # OpenWeatherMap API setup
-API_KEY = "-----"  # Replace with your actual API key
+API_KEY = "-----"  # Replace with your actual API key(32 or more alphanumeric characters)
 CITY = "London"
 URL = f"https://api.openweathermap.org/data/2.5/forecast?q={CITY}&appid={API_KEY}&units=metric"
 
