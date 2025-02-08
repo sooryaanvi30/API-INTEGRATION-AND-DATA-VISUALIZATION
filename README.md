@@ -1,11 +1,17 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: P SOORYA SHENOY
+
 INTERN ID: CT12ONS
+
 DOMAIN: PYTHON PROGRAMMING
+
 DURATION: 8 WEEKS
+
 MENTOR: NEELA SANTHOSH
+
 
 DESCRIPTION:
 This Python script is designed for data analysts, developers, and hobbyists interested in visualizing weather data trends using real-time information from the OpenWeatherMap API. It is suitable for execution on any platform that supports Python (Windows, macOS, or Linux). The script can be used in environmental monitoring systems, research projects, or educational purposes to demonstrate API integration and data visualization techniques.
